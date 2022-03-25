@@ -102,7 +102,7 @@ var app = http.createServer(function(request,response){
 app.listen(3001);
 
 
-//App - 글수정 - 수정 링크 생성 하는중
+//App - 글수정 - 수정할 정보 전송 할 차례
 //pm2 start main.js
 //pm2 list
 //pm2 log
